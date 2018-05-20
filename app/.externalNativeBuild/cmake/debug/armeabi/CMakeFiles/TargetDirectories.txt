@@ -1,0 +1,4 @@
+D:/workspace/EncryptLibrary/app/.externalNativeBuild/cmake/debug/armeabi/CMakeFiles/native-lib.dir
+D:/workspace/EncryptLibrary/app/.externalNativeBuild/cmake/debug/armeabi/CMakeFiles/encryptUtils.dir
+D:/workspace/EncryptLibrary/app/.externalNativeBuild/cmake/debug/armeabi/CMakeFiles/edit_cache.dir
+D:/workspace/EncryptLibrary/app/.externalNativeBuild/cmake/debug/armeabi/CMakeFiles/rebuild_cache.dir

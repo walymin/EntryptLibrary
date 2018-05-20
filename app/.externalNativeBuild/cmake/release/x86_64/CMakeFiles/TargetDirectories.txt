@@ -1,0 +1,4 @@
+D:/workspace/EncryptLibrary/app/.externalNativeBuild/cmake/release/x86_64/CMakeFiles/native-lib.dir
+D:/workspace/EncryptLibrary/app/.externalNativeBuild/cmake/release/x86_64/CMakeFiles/encryptUtils.dir
+D:/workspace/EncryptLibrary/app/.externalNativeBuild/cmake/release/x86_64/CMakeFiles/edit_cache.dir
+D:/workspace/EncryptLibrary/app/.externalNativeBuild/cmake/release/x86_64/CMakeFiles/rebuild_cache.dir

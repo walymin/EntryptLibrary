@@ -1,0 +1,11 @@
+# ninja log v5
+0	162	0	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	1cc46cb70f0a48
+1	238	0	CMakeFiles/native-lib.dir/src/main/cpp/encryptUtils.cpp.o	560e597066398b94
+238	1403	0	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	eec55da48318f47c
+1	91	0	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	587d6ad727bcda06
+2	203	0	CMakeFiles/native-lib.dir/src/main/cpp/encryptUtils.cpp.o	8c3a5f234c9bff
+0	94	0	CMakeFiles/encryptUtils.dir/src/main/cpp/native-lib.cpp.o	fbbfbdea45c3ac86
+1	195	0	CMakeFiles/encryptUtils.dir/src/main/cpp/encryptUtils.cpp.o	c9da4d538859ef91
+195	688	0	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libencryptUtils.so	8c76c2f164339ef1
+2	220	0	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	cb14d6d3a9abc6a9
+1	607	0	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libencryptUtils.so	def2aac2fb75ee1a
